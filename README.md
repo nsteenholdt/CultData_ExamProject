@@ -2,7 +2,7 @@
 This is a repository that will contain our exam project, which consists of a script that can visualise some of your Netflix activity.
 
 The script is in RMarkdown format and should be able to run, so long as you clone the entire repository yourself. 
-You can choose to use the .csv file that is provided in this repository, which consists of my (Nanna) own viewing history, and therefore you do not need to have a Netflix account to run this script. 
+You can choose to use the .csv file that is provided in this repository, which consists of my (Nanna's) own viewing history, and therefore you do not need to have a Netflix account to run this script. 
 
 However, if you are interested in visualising your own data from your own Netflix account, do the following:
 
@@ -14,4 +14,9 @@ However, if you are interested in visualising your own data from your own Netfli
 - Next to "Viewing History" click on "View"
 - Scroll down and click "Download all" 
 
-Now you have a file called "NetFlixViewingHistory.csv" 
+Now you have a file called "NetflixViewingHistory.csv" 
+
+It's important that the .csv file you want to use is in the same folder as your working directory. 
+Also, seeing as the Netflix data that we provided is already called "NetflixViewingHistory.csv", you may want to rename the file you downloaded yourself.
+
+Note: while the script should be able to run from the get go, we identified some possible bugs that might occur. These are pointed out in the script underneath each chunk of code. Here you can also find explanations of things that might not be obvious when looking at the plots.
