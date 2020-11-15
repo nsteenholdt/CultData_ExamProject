@@ -20,3 +20,10 @@ It's important that the .csv file you want to use is in the same folder as your 
 Also, seeing as the Netflix data that we provided is already called "NetflixViewingHistory.csv", you may want to rename the file you downloaded yourself.
 
 Note: while the script should be able to run from the get go, we identified some possible bugs that might occur. These are pointed out in the script underneath each chunk of code. Here you can also find explanations of things that might not be obvious when looking at the plots.
+
+---
+Files included in this repository (so far):
+
+- An Rmarkdown with the code used for setup and visualisation
+- A .csv file with an example of Netflix viewing  history
+- An html file which contains the knitted code from the Rmarkdown using the data from the .csv file
