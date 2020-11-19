@@ -14,7 +14,7 @@ However, if you are interested in visualising your own data from your own Netfli
 - Next to "Viewing History" click on "View"
 - Scroll down and click "Download all" 
 
-Now you have a file called "NetflixViewingHistory.csv" 
+Now you have a file called "NetflixViewingHistory.csv", which contains two columns: Title (of the media watched) and date (of watching said media).
 
 It's important that the .csv file you want to use is in the same folder as your working directory. 
 Also, seeing as the Netflix data that we provided is already called "NetflixViewingHistory.csv", you may want to rename the file you downloaded yourself.
