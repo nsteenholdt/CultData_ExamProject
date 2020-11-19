@@ -27,3 +27,4 @@ Files included in this repository (so far):
 - An Rmarkdown with the code used for setup and visualisation
 - A .csv file with an example of Netflix viewing  history
 - An html file which contains the knitted code from the Rmarkdown using the data from the .csv file
+- License 
