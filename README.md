@@ -33,6 +33,7 @@ Note: while the script should be able to run from the get go, we identified some
 ### Authors
 This project was done by Nanna Marie Steenholdt and Bianka Szöllösi at Aarhus University for the class "Cultural Data Science".
 If you have questions, feel free to contact us:
+
 Nanna - Nsteenholdt@gmail.com
 
 Bianka - Bia.szollosi@gmail.com
