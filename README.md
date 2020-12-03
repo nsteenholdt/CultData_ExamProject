@@ -30,6 +30,12 @@ Note: while the script should be able to run from the get go, we identified some
 - An html file which contains the knitted code from the Rmarkdown using the data from the .csv file
 - A license, which states the conditions to which you can use this code
 
+### Metadata
+The .csv datasets from netflix has two variables:
+
+"Title" - which has the title of the series or movie. For series, the title is displayed as [Series name]: Season [number]: [Episode name]
+"Date" - which has the date you watched that particular title. Depending on the language setting of your Netflix account, the data is either displayed dd/mm/yyyy or mm/dd/yyyy - the script is made for dd/mm/yyyy, but specifies in the code comments how you can change it to acknowledge mm/dd/yyyy
+
 ### Authors
 This project was done by Nanna Marie Steenholdt and Bianka Szöllösi at Aarhus University for the class "Cultural Data Science".
 If you have questions, feel free to contact us:
