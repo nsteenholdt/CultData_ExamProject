@@ -27,7 +27,7 @@ Note: while the script should be able to run from the get go, we identified some
 
 - An Rmarkdown with the code used for setup and visualisation
 - A .csv file with an example of Netflix viewing  history
-- An html file which contains the knitted code from the Rmarkdown using the data from the .csv file
+- A pdf file which contains the knitted code from the Rmarkdown using the data from the .csv file
 - A license, which states the conditions to which you can use this code
 
 ### Metadata
